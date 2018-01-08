@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = dplanterose@gmail.com
+	email = null
 	name = Dante Planterose
